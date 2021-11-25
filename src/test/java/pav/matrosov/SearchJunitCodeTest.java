@@ -1,6 +1,5 @@
 package pav.matrosov;
 
-import com.codeborne.selenide.Selectors;
 import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.Condition.text;
